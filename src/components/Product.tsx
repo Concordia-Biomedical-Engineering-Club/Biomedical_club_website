@@ -8,7 +8,7 @@ const Product = () => {
   const [firstItem /* , secondItem */] = product.items;
 
   return (
-    <section>
+    <section id="product">
       <h1
         className={`w-full my-2 text-5xl font-bold leading-tight text-center text-primary`}
       >
