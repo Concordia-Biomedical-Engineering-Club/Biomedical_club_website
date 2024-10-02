@@ -147,7 +147,7 @@ const Pricing = () => {
 
           <div className="mt-4 md:mt-8">
             <a
-              href="#"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSdJEMXIpcMl0fsVZn-dhFao9V-M6Ux7gBGypZP52esIaqzEwQ/viewform"
               className="inline-block rounded bg-gray-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-gray-700 focus:outline-none focus:ring focus:ring-yellow-400"
             >
               Join Us Today
