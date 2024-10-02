@@ -1,6 +1,6 @@
 {
   "company": {
-    "name": "React landing page 2021",
+    "name": "Biomedical Engineering Club",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
@@ -24,7 +24,7 @@
   ],
   "callToAction": {
     "text": "Get started",
-    "href": "https://docs.google.com/forms/d/e/1FAIpQLSdJEMXIpcMl0fsVZn-dhFao9V-M6Ux7gBGypZP52esIaqzEwQ/viewform"
+    "href": "#"
   },
   "mainHero": {
     "title": "(Concordia)",
@@ -33,7 +33,7 @@
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Get started",
-      "href": "#"
+      "href": "https://docs.google.com/forms/d/e/1FAIpQLSdJEMXIpcMl0fsVZn-dhFao9V-M6Ux7gBGypZP52esIaqzEwQ/viewform"
     },
     "secondaryAction": {
       "text": "Email us",
