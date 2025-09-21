@@ -1,6 +1,7 @@
 export const AppConfig = {
-  site_name: 'React landing page',
-  title: 'React landing page template 2021',
-  description: 'Production ready plug n play landing page!',
+  site_name: 'Biomedical Engineering Club - Concordia University',
+  title: 'Biomedical Engineering Club | Concordia University',
+  description:
+    'Join the Biomedical Engineering Club at Concordia University. Explore innovative projects, connect with professionals, and advance your career in biomedical engineering through hands-on experience and collaboration.',
   locale: 'en',
 };

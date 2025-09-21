@@ -9,22 +9,21 @@
       "href": "product"
     },
     {
-      "name": "Outreach",
-      "href": "features"
+      "name": "Goals",
+      "href": "goals"
     },
-
     {
-      "name": "Recruitment",
-      "href": "pricing"
+      "name": "Team",
+      "href": "team"
     },
     {
       "name": "Contact us",
-      "href": "about"
+      "href": "contact"
     }
   ],
   "callToAction": {
-    "text": "Get started",
-    "href": "#"
+    "text": "Join Our Community",
+    "href": "https://docs.google.com/forms/d/e/1FAIpQLSdJEMXIpcMl0fsVZn-dhFao9V-M6Ux7gBGypZP52esIaqzEwQ/viewform"
   },
   "mainHero": {
     "title": "",
@@ -32,7 +31,7 @@
     "description": "The  Biomedical Engineering Club is dedicated to fostering a community of aspiring biomedical engineers at Concordia University. Our mission is to explore innovative solutions that bridge engineering and healthcare, preparing members for careers in this dynamic field.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
-      "text": "Get started",
+      "text": "Join Our Community",
       "href": "https://docs.google.com/forms/d/e/1FAIpQLSdJEMXIpcMl0fsVZn-dhFao9V-M6Ux7gBGypZP52esIaqzEwQ/viewform"
     },
     "secondaryAction": {
@@ -44,14 +43,18 @@
     "title": "Our Projects",
     "items": [
       {
-        "title": "AI Diagnosis Tool for Dermatology",
-        "description": "Our team is developing an AI Diagnosis Tool to assist dermatologists in making quick and accurate skin diagnoses. Utilizing a dataset of labeled skin images provided by Livewell, we will train a machine learning model to analyze images and deliver precise diagnostic outputs. The project also includes creating a user-friendly web application using React/Next.js, allowing dermatologists to upload images and receive instant feedback with visual indicators highlighting affected areas. This innovative tool aims to streamline the diagnostic process and enhance the accuracy of skin condition assessments.",
-        "img": "/assets/images/dermatology.jpg"
+        "title": "AI Dermatology Diagnostic Tool",
+        "description": "A clinical decision-support system designed to assist healthcare professionals in making faster and more accurate preliminary dermatological diagnoses. This project combines a powerful visual analysis CNN with a symptom analysis engine to provide comprehensive, evidence-based differential diagnosis, covering over 320 conditions with CNN trained on 23 common visual classes.",
+        "img": "/assets/images/dermatology.jpg",
+        "link": "https://github.com/Concordia-Biomedical-Engineering-Club/ai-dermatology-tool",
+        "linkText": "View on GitHub"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/product2.jpg"
+        "title": "Student Research Opportunities",
+        "description": "Get involved in cutting-edge research projects with faculty mentors. Our club connects students with research opportunities in medical imaging, biosensors, rehabilitation engineering, and computational biology. Build your portfolio while contributing to meaningful healthcare innovations.",
+        "img": "/assets/images/product2.jpg",
+        "link": "mailto:BEC@csu.qc.ca?subject=Research Opportunities",
+        "linkText": "Get Involved"
       }
     ]
   },
@@ -80,37 +83,97 @@
         "description": "Promote creative thinking and problem-solving through hands-on projects and competitions, encouraging members to develop their own ideas and solutions in the biomedical engineering space.",
         "icon": "/assets/images/innovation.png"
       }
+    ],
+    "achievements": [
+      {
+        "number": "50+",
+        "label": "Active Members",
+        "description": "Growing community of passionate students"
+      },
+      {
+        "number": "10+",
+        "label": "Projects Completed",
+        "description": "Real-world healthcare solutions developed"
+      },
+      {
+        "number": "5+",
+        "label": "Industry Partners",
+        "description": "Collaborations with healthcare organizations"
+      }
     ]
   },
   "pricing": {
-    "title": "Join Us",
-    "items": []
+    "title": "Meet Our Team",
+    "subtitle": "The passionate individuals driving innovation in biomedical engineering",
+    "items": [
+      {
+        "name": "Executive Team",
+        "description": "Our dedicated executive team leads the club's initiatives and coordinates activities.",
+        "features": [
+          "Join our executive team and lead innovation in biomedical engineering",
+          "Help coordinate workshops and project development",
+          "Build valuable leadership experience",
+          "Network with industry professionals"
+        ]
+      },
+      {
+        "name": "Join Our Projects",
+        "description": "Get hands-on experience working on cutting-edge biomedical engineering projects.",
+        "features": [
+          "AI/ML projects in healthcare",
+          "Medical device prototyping",
+          "Data analysis and research",
+          "Community outreach initiatives"
+        ]
+      }
+    ]
+  },
+  "events": {
+    "title": "Upcoming Events & Activities",
+    "subtitle": "Join us for workshops, project showcases, and networking opportunities",
+    "items": [
+      {
+        "name": "Weekly Workshops",
+        "date": "Every Friday 5:00 PM",
+        "description": "Learn new skills in AI, medical device design, and biomedical data analysis.",
+        "location": "EV Building, Concordia University"
+      },
+      {
+        "name": "Project Showcase",
+        "date": "Coming Soon",
+        "description": "Present your projects and see what other members are working on.",
+        "location": "To be announced"
+      },
+      {
+        "name": "Industry Guest Speakers",
+        "date": "Monthly",
+        "description": "Network with professionals from leading biomedical companies and research institutions.",
+        "location": "Hybrid (In-person & Virtual)"
+      }
+    ]
   },
   "about": {
     "sections": [
       {
-        "name": "Email",
+        "name": "Contact Information",
         "href": "mailto:BEC@csu.qc.ca?subject=I would like to collaborate/join!",
-        "content": "BEC@csu.qc.ca"
+        "content": "Email: BEC@csu.qc.ca"
       },
       {
-        "name": "",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "name": "Meeting Times",
+        "content": "Weekly meetings every Friday at 5:00 PM in the EV Building. All students welcome!"
       },
       {
-        "name": "",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "name": "Get Involved",
+        "content": "Whether you're interested in AI applications in medicine, medical device design, or healthcare data analysis, our club offers opportunities to learn, contribute, and make a real impact. We welcome students from all engineering disciplines and backgrounds."
       },
       {
-        "name": "",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "name": "Partnership Opportunities", 
+        "content": "Industry professionals and healthcare organizations interested in collaborating on student projects or providing mentorship opportunities are encouraged to reach out to us."
       }
     ],
     "socialMedia": {
-      "github": "https://github.com/",
+      "github": "https://github.com/Concordia-Biomedical-Engineering-Club",
       "instagram": "https://www.instagram.com/bec.club/",
       "linkedin": "https://www.linkedin.com/company/bio-medical-engineering-club/"
     }
