@@ -161,14 +161,17 @@
       },
       {
         "name": "Meeting Times",
-        "content": "Weekly meetings every Friday at 5:00 PM in the EV Building. All students welcome!"
+        "href": "https://docs.google.com/forms/d/e/1FAIpQLSdJEMXIpcMl0fsVZn-dhFao9V-M6Ux7gBGypZP52esIaqzEwQ/viewform",
+        "content": "Weekly meetings every TBD. All students welcome!"
       },
       {
         "name": "Get Involved",
+        "href": "https://docs.google.com/forms/d/e/1FAIpQLSdJEMXIpcMl0fsVZn-dhFao9V-M6Ux7gBGypZP52esIaqzEwQ/viewform",
         "content": "Whether you're interested in AI applications in medicine, medical device design, or healthcare data analysis, our club offers opportunities to learn, contribute, and make a real impact. We welcome students from all engineering disciplines and backgrounds."
       },
       {
-        "name": "Partnership Opportunities", 
+        "name": "Partnership Opportunities",
+        "href": "mailto:BEC@csu.qc.ca?subject=Partnership Inquiry",
         "content": "Industry professionals and healthcare organizations interested in collaborating on student projects or providing mentorship opportunities are encouraged to reach out to us."
       }
     ],
