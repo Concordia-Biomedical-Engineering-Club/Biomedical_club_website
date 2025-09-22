@@ -11,9 +11,9 @@
   [![TypeScript](https://img.shields.io/badge/TypeScript-4.9-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
   [![Framer Motion](https://img.shields.io/badge/Framer_Motion-5.0-purple?style=flat-square&logo=framer)](https://www.framer.com/motion/)
-  [![Netlify](https://img.shields.io/badge/Deployed_on-Netlify-00C7B7?style=flat-square&logo=netlify)](https://www.netlify.com/)
+  [![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?style=flat-square&logo=vercel)](https://vercel.com/)
 
-  [🚀 Live Demo](https://biomedical-club-website.netlify.app) | [📋 Join Our Club](https://docs.google.com/forms/d/e/1FAIpQLSdJEMXIpcMl0fsVZn-dhFao9V-M6Ux7gBGypZP52esIaqzEwQ/viewform) | [📧 Contact Us](mailto:BEC@csu.qc.ca)
+  [🚀 Live Demo](https://bec-club.vercel.app/) | [📋 Join Our Club](https://docs.google.com/forms/d/e/1FAIpQLSdJEMXIpcMl0fsVZn-dhFao9V-M6Ux7gBGypZP52esIaqzEwQ/viewform) | [📧 Contact Us](mailto:BEC@csu.qc.ca)
 
 </div>
 
@@ -70,7 +70,7 @@ The **Concordia University Biomedical Engineering Club** website is a modern, re
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/youssefjedidi/Biomedical_club_website.git
+   git clone https://github.com/Concordia-Biomedical-Engineering-Club/Biomedical_club_website.git
    cd Biomedical_club_website
    ```
 
@@ -177,7 +177,7 @@ theme: {
 We welcome contributions from club members and the community! Here's how you can help:
 
 ### 🐛 Bug Reports
-- Use the [GitHub Issues](https://github.com/youssefjedidi/Biomedical_club_website/issues) tab
+- Use the [GitHub Issues](https://github.com/Concordia-Biomedical-Engineering-Club/Biomedical_club_website/issues) tab
 - Provide detailed description and steps to reproduce
 - Include browser and device information
 
@@ -230,7 +230,7 @@ We welcome contributions from club members and the community! Here's how you can
 
 ## 🌐 Deployment
 
-The website is automatically deployed to Netlify from the main branch.
+The website is automatically deployed to Vercel from the main branch.
 
 ### 📦 Build Process
 1. **Install dependencies**: `npm ci`
@@ -241,13 +241,13 @@ The website is automatically deployed to Netlify from the main branch.
 
 ### 🔄 Continuous Deployment
 - Push to `main` branch triggers automatic deployment
-- Build status visible in Netlify dashboard
+- Build status visible in Vercel dashboard
 - Preview deployments for pull requests
 
 ## 🔗 Links & Resources
 
 ### 🏢 Club Information
-- **Website**: [biomedical-club-website.netlify.app](https://biomedical-club-website.netlify.app)
+- **Website**: [bec-club.vercel.app](https://bec-club.vercel.app/)
 - **Email**: [BEC@csu.qc.ca](mailto:BEC@csu.qc.ca)
 - **Join Form**: [Club Registration](https://docs.google.com/forms/d/e/1FAIpQLSdJEMXIpcMl0fsVZn-dhFao9V-M6Ux7gBGypZP52esIaqzEwQ/viewform)
 
@@ -269,7 +269,7 @@ This project is built upon the excellent [React Landing Page Template 2021](http
 ### 🙏 Credits
 - **Original Template**: [react-landing-page-template-2021](https://github.com/issaafalkattan/react-landing-page-template-2021)
 - **Customization & Content**: Concordia University Biomedical Engineering Club
-- **Maintainer**: [@youssefjedidi](https://github.com/youssefjedidi)
+- **Repository**: [@Concordia-Biomedical-Engineering-Club](https://github.com/Concordia-Biomedical-Engineering-Club)
 
 ---
 
@@ -279,6 +279,6 @@ This project is built upon the excellent [React Landing Page Template 2021](http
 
 *Bridging the gap between engineering innovation and healthcare solutions*
 
-[🚀 Join Our Mission](https://docs.google.com/forms/d/e/1FAIpQLSdJEMXIpcMl0fsVZn-dhFao9V-M6Ux7gBGypZP52esIaqzEwQ/viewform) • [💬 Get In Touch](mailto:BEC@csu.qc.ca) • [⭐ Star This Repo](https://github.com/youssefjedidi/Biomedical_club_website)
+[🚀 Join Our Mission](https://docs.google.com/forms/d/e/1FAIpQLSdJEMXIpcMl0fsVZn-dhFao9V-M6Ux7gBGypZP52esIaqzEwQ/viewform) • [💬 Get In Touch](mailto:BEC@csu.qc.ca) • [⭐ Star This Repo](https://github.com/Concordia-Biomedical-Engineering-Club/Biomedical_club_website)
 
 </div>
