@@ -12,6 +12,7 @@ import MainHero from '../components/MainHero';
 import MainHeroImage from '../components/MainHeroImage';
 import Pricing from '../components/Pricing';
 import Product from '../components/Product';
+import Sponsorship from '../components/Sponsorship';
 import { AppConfig } from '../utils/AppConfig';
 
 const App = () => {
@@ -65,6 +66,9 @@ const App = () => {
             <Features />
             <Canvas />
           </>
+        </LazyShow>
+        <LazyShow>
+          <Sponsorship />
         </LazyShow>
         <LazyShow>
           <Pricing />

@@ -13,6 +13,10 @@
       "href": "goals"
     },
     {
+      "name": "Sponsorship",
+      "href": "sponsorship"
+    },
+    {
       "name": "Team",
       "href": "team"
     },
@@ -179,6 +183,252 @@
       "github": "https://github.com/Concordia-Biomedical-Engineering-Club",
       "instagram": "https://www.instagram.com/bec.club/",
       "linkedin": "https://www.linkedin.com/company/bio-medical-engineering-club/"
+    }
+  },
+  "sponsorship": {
+    "hero": {
+      "title": "Partner With Innovation",
+      "subtitle": "Join us in empowering the next generation of biomedical engineers at Concordia University",
+      "primaryAction": {
+        "text": "View Sponsorship Packages",
+        "href": "#tiers"
+      },
+      "secondaryAction": {
+        "text": "Download Prospectus",
+        "href": "mailto:BEC@csu.qc.ca?subject=Sponsorship Prospectus Request"
+      },
+      "stats": [
+        {
+          "number": "200+",
+          "label": "Active Members"
+        },
+        {
+          "number": "15+",
+          "label": "Annual Events"
+        },
+        {
+          "number": "5,000+",
+          "label": "Student Reach"
+        }
+      ]
+    },
+    "about": {
+      "title": "About Concordia Biomedical Engineering Club",
+      "description": "The Concordia Biomedical Engineering Club is a student-run organization dedicated to bridging the gap between engineering innovation and healthcare solutions. Our mission is to foster innovation, collaboration, and professional development among aspiring biomedical engineers.",
+      "mission": "Our mission is to foster innovation, collaboration, and professional development in the field of biomedical engineering, preparing our members for successful careers in healthcare technology.",
+      "activities": "We organize workshops, industry talks, networking events, design competitions, and hands-on projects that give students real-world experience in medical device development, healthcare data analysis, and biomedical research.",
+      "impact": "Our members go on to work at leading medical device companies, research institutions, and healthcare technology startups, making meaningful contributions to improving patient care and advancing medical technology.",
+      "highlights": [
+        {
+          "icon": "🔬",
+          "title": "Research & Innovation",
+          "description": "Cutting-edge biomedical research projects"
+        },
+        {
+          "icon": "🤝",
+          "title": "Industry Networking",
+          "description": "Direct connections with healthcare leaders"
+        },
+        {
+          "icon": "🏆",
+          "title": "Competitions & Projects",
+          "description": "Award-winning student innovations"
+        },
+        {
+          "icon": "📚",
+          "title": "Professional Development",
+          "description": "Technical workshops and career guidance"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why Partner With Us?",
+      "items": [
+        {
+          "title": "Access to Top Talent",
+          "description": "Connect with 200+ motivated biomedical engineering students ready to innovate",
+          "icon": "👥"
+        },
+        {
+          "title": "Brand Visibility",
+          "description": "Reach 5,000+ students, faculty, and industry professionals through our events and platforms",
+          "icon": "📢"
+        },
+        {
+          "title": "Recruitment Pipeline",
+          "description": "Early access to talented students for internships, co-ops, and full-time positions",
+          "icon": "🎯"
+        },
+        {
+          "title": "Community Impact",
+          "description": "Support STEM education and the future of healthcare innovation",
+          "icon": "💡"
+        },
+        {
+          "title": "Networking Opportunities",
+          "description": "Connect with other industry leaders and academic partners at exclusive events",
+          "icon": "🌐"
+        },
+        {
+          "title": "Marketing Exposure",
+          "description": "Logo placement across our website, social media (10,000+ combined followers), and event materials",
+          "icon": "📱"
+        }
+      ]
+    },
+    "tiers": [
+      {
+        "name": "Platinum",
+        "price": "$10,000+",
+        "color": "platinum",
+        "badge": "EXCLUSIVE",
+        "popular": false,
+        "benefits": [
+          "Exclusive title sponsor status",
+          "Large logo on website homepage (prime placement)",
+          "Logo on all event materials and merchandise",
+          "4 social media spotlight posts",
+          "Full-page feature in newsletter (500+ subscribers)",
+          "Premium booth space at all events",
+          "Speaking opportunity at annual gala",
+          "Exclusive executive networking dinner",
+          "Job posting priority",
+          "Custom collaboration opportunities"
+        ]
+      },
+      {
+        "name": "Gold",
+        "price": "$5,000 - $9,999",
+        "color": "gold",
+        "badge": "BEST VALUE",
+        "popular": true,
+        "benefits": [
+          "Major sponsor recognition",
+          "Medium logo on website sponsor page",
+          "Logo on event banners and materials",
+          "3 social media mentions",
+          "Half-page newsletter feature",
+          "Standard booth at major events",
+          "Networking session access",
+          "Job posting opportunities"
+        ]
+      },
+      {
+        "name": "Silver",
+        "price": "$2,500 - $4,999",
+        "color": "silver",
+        "badge": null,
+        "popular": false,
+        "benefits": [
+          "Sponsor recognition on website",
+          "Small logo on website sponsor page",
+          "Logo on select event materials",
+          "2 social media shoutouts",
+          "Newsletter mention",
+          "Event attendance privileges"
+        ]
+      },
+      {
+        "name": "Bronze",
+        "price": "$500 - $2,499",
+        "color": "bronze",
+        "badge": null,
+        "popular": false,
+        "benefits": [
+          "Website sponsor listing",
+          "Logo on website",
+          "1 social media mention",
+          "Event acknowledgment",
+          "Newsletter listing"
+        ]
+      }
+    ],
+    "comparisonTable": {
+      "title": "Benefits Breakdown",
+      "rows": [
+        {
+          "benefit": "Investment Level",
+          "bronze": "$500-$2,499",
+          "silver": "$2,500-$4,999",
+          "gold": "$5,000-$9,999",
+          "platinum": "$10,000+"
+        },
+        {
+          "benefit": "Website Logo Size",
+          "bronze": "Small",
+          "silver": "Medium",
+          "gold": "Large",
+          "platinum": "Extra Large (Homepage)"
+        },
+        {
+          "benefit": "Social Media Posts",
+          "bronze": "1",
+          "silver": "2",
+          "gold": "3",
+          "platinum": "4+ Custom Campaign"
+        },
+        {
+          "benefit": "Event Materials",
+          "bronze": true,
+          "silver": true,
+          "gold": true,
+          "platinum": "Premium Placement"
+        },
+        {
+          "benefit": "Newsletter Feature",
+          "bronze": "Listing",
+          "silver": "Mention",
+          "gold": "Half-page",
+          "platinum": "Full-page"
+        },
+        {
+          "benefit": "Event Booth Space",
+          "bronze": false,
+          "silver": true,
+          "gold": "Premium",
+          "platinum": "Exclusive"
+        },
+        {
+          "benefit": "Speaking Opportunities",
+          "bronze": false,
+          "silver": false,
+          "gold": true,
+          "platinum": "Multiple"
+        },
+        {
+          "benefit": "Networking Events",
+          "bronze": false,
+          "silver": true,
+          "gold": true,
+          "platinum": "Exclusive Dinner"
+        },
+        {
+          "benefit": "Merchandise Logo",
+          "bronze": false,
+          "silver": false,
+          "gold": true,
+          "platinum": true
+        },
+        {
+          "benefit": "Job Postings",
+          "bronze": false,
+          "silver": true,
+          "gold": "Priority",
+          "platinum": "Featured"
+        }
+      ]
+    },
+    "pastSponsors": {
+      "title": "Our Partners",
+      "description": "We're proud to collaborate with leading organizations in biomedical engineering and healthcare",
+      "sponsors": []
+    },
+    "contact": {
+      "title": "Get Involved",
+      "subtitle": "Ready to partner with the future of biomedical engineering?",
+      "description": "Contact us to discuss sponsorship opportunities and how we can work together to advance healthcare innovation.",
+      "email": "BEC@csu.qc.ca",
+      "formTitle": "Sponsorship Inquiry"
     }
   }
 }
