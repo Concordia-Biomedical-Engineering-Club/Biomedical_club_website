@@ -11,7 +11,6 @@
   [![TypeScript](https://img.shields.io/badge/TypeScript-4.9-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
   [![Framer Motion](https://img.shields.io/badge/Framer_Motion-5.0-purple?style=flat-square&logo=framer)](https://www.framer.com/motion/)
-  [![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?style=flat-square&logo=vercel)](https://vercel.com/)
 
   [🚀 Live Demo](https://bec-club.vercel.app/) | [📋 Join Our Club](https://docs.google.com/forms/d/e/1FAIpQLSdJEMXIpcMl0fsVZn-dhFao9V-M6Ux7gBGypZP52esIaqzEwQ/viewform) | [📧 Contact Us](mailto:BEC@csu.qc.ca)
 
